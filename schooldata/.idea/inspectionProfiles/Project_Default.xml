@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="notify.scada_data_analysis" />
+          <option value="sql.Mysql" />
+          <option value="openpyxl.load.workbook" />
+          <option value="list.speed" />
+          <option value="list.color" />
+          <option value="list.circle" />
+          <option value="list.forward" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
